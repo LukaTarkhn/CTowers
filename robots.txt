@@ -1,0 +1,16 @@
+Sitemap: https://calligraphy-towers.com/sitemap.html
+Sitemap: https://calligraphy-towers.com/sitemap.xml
+
+User-Agent: *
+Disallow: 
+Disallow: /calligraphy-towers.com/admin
+Allow: /calligraphy-towers.com
+Allow: /calligraphy-towers.com/ka
+Allow: /calligraphy-towers.com/en
+Allow: /calligraphy-towers.com/ru
+Allow: /calligraphy-towers.com/ka/condition
+Allow: /calligraphy-towers.com/en/condition
+Allow: /calligraphy-towers.com/ru/condition
+Allow: /calligraphy-towers.com/sitemap.html
+Allow: /calligraphy-towers.com/sitemap.xml
+
